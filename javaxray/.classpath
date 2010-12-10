@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="de/igeri/javaxray/java2html/ConversionOptionsPropertiesReader.java|de/igeri/javaxray/java2html/ConversionOptionsUtilities.java|de/igeri/javaxray/java2html/IllegalPropertyValueException.java|de/igeri/javaxray/java2html/IJavaSourceConverter.java|de/igeri/javaxray/java2html/JavaSourceRun.java|de/igeri/javaxray/java2html/JavaSourceIterator.java|de/igeri/javaxray/java2html/IllegalConfigurationException.java|de/igeri/javaxray/java2html/ConverterMetaData.java|de/igeri/javaxray/java2html/Ensure.java|de/igeri/javaxray/java2html/HtmlUtilities.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
